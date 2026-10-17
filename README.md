@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Krishna Kumar 👋
 
-<!--
-**thekrishnakumar27/thekrishnakumar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Learning Data Structures and Algorithms with C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Exploring Web Development and Artificial Intelligence
+
+## 🛠️ Technologies I'm Learning
+
+- C++
+- Data Structures and Algorithms
+- JavaScript
+- React
+- TypeScript
+- Git and GitHub
+
+## 🚀 Featured Project
+
+### Change in Society — Small Actions. Real Change.
+
+An AI-assisted civic platform designed to help communities report local problems, share supporting evidence, and track progress toward solutions.
+
+🔗 **Project Repository:** [Change in Society](https://github.com/thekrishnakumar27/change-in-society)
+
+## 🎯 My Goals
+
+- Strengthen my problem-solving skills.
+- Build practical software projects.
+- Learn new technologies.
+- Prepare for software development opportunities.
+
+## 📫 Connect With Me
+
+- GitHub: [@thekrishnakumar27](https://github.com/thekrishnakumar27)
